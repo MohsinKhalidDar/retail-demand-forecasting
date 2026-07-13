@@ -1,0 +1,24 @@
+{
+  "selected_model": "Linear Regression",
+  "holdout_start": "2025-03-03",
+  "models": {
+    "Linear Regression": {
+      "mae": 15.32,
+      "rmse": 16.47,
+      "mape": 0.79,
+      "r2": 0.992
+    },
+    "Random Forest": {
+      "mae": 42.57,
+      "rmse": 67.1,
+      "mape": 2.01,
+      "r2": 0.871
+    },
+    "XGBoost": {
+      "mae": 36.01,
+      "rmse": 47.46,
+      "mape": 1.75,
+      "r2": 0.935
+    }
+  }
+}
