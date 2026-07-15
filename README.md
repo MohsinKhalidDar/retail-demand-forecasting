@@ -20,7 +20,7 @@ python -m src.train
 streamlit run dashboard/app.py
 ```
 
-Open `demandiq.streamlit.app`. The first training run creates a demo CSV in `data/raw/`, a SQLite database, engineered features, a model artifact, and evaluation metrics.
+Open `demandx.streamlit.app`. The first training run creates a demo CSV in `data/raw/`, a SQLite database, engineered features, a model artifact, and evaluation metrics.
 
 ## Use your own data
 
